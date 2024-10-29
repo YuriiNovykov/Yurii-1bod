@@ -43,7 +43,3 @@ class Employee implements Person {
         System.out.println("Employee - Gender: " + gender + ", Age: " + age + ", Years Worked: " + yearsWorked());
     }
 }
-
-// Main class to test the implementation
-
-}
